@@ -1,0 +1,33 @@
+.character-page {
+    padding: 20px;
+  }
+  
+  .character-title {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: #facc15; /* amarelo tipo DBZ */
+    margin-bottom: 8px;
+  }
+  
+  .character-subtitle {
+    text-align: center;
+    color: #f50303;
+    margin-bottom: 20px;
+  }
+  
+  .character-button {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .character-table {
+    min-width: 800px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: auto;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    padding: 10px;
+  }
+  
